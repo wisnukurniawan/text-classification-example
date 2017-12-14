@@ -1,0 +1,30 @@
+Image generation by adversarial training using evolution and deep learning
+Program Synthesis by Hierarchical Evolution
+Security Audit and Bug Testing
+Patient Similarity Modelling for Healthcare
+Matching Words and Pictures: Cross-modal Multimedia Web Infomation Aggregation
+People to People Recommendation in Social Networks
+Software for computing graph parameters
+Parameterized Algorithms for Backdoor Detection
+A Novel Approach to Privacy Preservation in the Internet of Things using Blockchains
+EDSL for mobile graphic apps
+EDSL for data serialisation and de-serialisation
+Decision support for a home telehealth system
+Smartphone app for telepsychiatry and mental health
+iPhone app for cardiac rehabilitation
+Smartphone/iPad app for gait assessment and activity classification
+Adaptive E-learning
+Development of a Web Service for Data Sharing and Analyses of Fetal Cardiac Images between International Clinical Research Centres
+Smartphone app for activity classification and fall detection
+Developing new methods for analysis of next generation genome sequencing data
+Genome based molecular typing of pathogenic bacteria
+Estimating human body part dimensions from 2D image for malnutrition assessment
+Embedded algorithms for a low power wearable fall detector
+Development of a web based tool for analysis of T cell receptors
+Social network analysis of viral infections in prison settings
+Deep sequencing analysis of the early infection phase of hepatitis C virus
+Use of next generation sequencing to analyse genome evolution in infectious and genetic diseases
+When and how to use animation: Connecting human minds to computers
+Machine Learning Algorithm for Cell Tracking
+A Configurable Implementation of the ARM Architecture for the Argus Platform
+Modelling and Analysing Financial Market Datasets

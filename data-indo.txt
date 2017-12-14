@@ -1,0 +1,30 @@
+APLIKASI PELAPORAN PENGGUNAAN INTERNET DENGAN SARG (SQUID ANALYSIS REPORT GENERATOR)
+Analisis Studi Kelayakan Sebuah BTS Untuk Interkoneksi Jaringan Data Nirkabel Antar PUSKESMAS dan Rumah Sakit Di Kota Cilegon Menggunakan Radio Mobile For Windows.
+Analisis Perbandingan Clustering Web Server Full Virtualization dengan Clustering Web Server Paravirtualization sebagai Load Balancing
+Mengoptimalkan Network Intrusion Detection System (NIDS) menggunakan Honeypot untuk menangani Zero-Day Attack
+Analisis perbandingan kinerja metode Tunneling dan metode NAT-PT pada Router Cisco menggunakan emulator GNS3
+Laboratorium Virtual eksperimen kalor berbasis multimedia.
+Rancang bangun ruang huni pada game flash untuk tata kota hijau
+Peta digital pariwisata kabupaten Jepara berbasis multimedia
+Game Puzzle Pengenalan Buah-buahan Untuk Anak Usia Dini
+PENERAPAN TEKNOLOGI TEXT-TO-SPEECH PADA PERANGKAT BERBASIS iOS (STUDI KASUS KAMUS BAHASA INGGRIS-INDONESIA)
+Alat Bantu Ajar Sholat Menggunakan Simulasi 3D
+Aplikasi Simulator modifikasi exterior mobil Honda Accord sedan 2010 berbasis 3D.
+Aplikasi Penyajian Materi Logika Matematika Berbasis Multimedia.
+Pengembangan Sistem Informasi Manajemen Apotek UII Farma
+Sistem Pendukung Keputusan Untuk Menentukan Harga Jual Beras
+Sistem Informasi Pelayanan Rumah Sakit Muhammadiyah Rodliyah Achid Moga.
+Academic Information System (AIS) IHS. Modul Registrasi Mahasiswa Baru, Orientasi Mahasiswa Baru, dan Perkuliahan Persemester
+SISTEM PEMBAGIAN KELAS SISWA BARU DENGAN ALGORITMA GENETIKA BERBASIS WEB
+Academic Information System (AIS) IHS. Modul Pendaftaran Mahasiswa Baru, Ujian Ulang dan Semester Pendek dan Perkuliahan Semester V (Study Off Campus)
+Mobile Education Untuk Aplikasi Pembelajaran Menggunakan J2ME dan Web Service
+Sistem Pendukung Keputusan Pemilihan Program Studi Perguruan Tinggi Swasta di Yogyakarta dengan metode SAW berbasis Web
+SISTEM PENDUKUNG KEPUTUSAN UNTUK MANAJEMEN ASUPAN NUTRISI ATLIT SEPAKBOLA.
+Sistem Pakar Identifikasi Khasiat Tanaman Obat dengan Metode Pohon Keputusan
+Sistem Pakar Identifikasi Khasiat Tanaman Obat dengan Metode Pohon Keputusan
+Sistem Pendukung Keputusan Pemilihan Lensa Untuk Kamera DSLR Canon
+Sistem Pendukung Keputusan Diagnosis Penyakit Tulang Menggunakan Naive Bayesian Classification
+Sistem Informasi Manajemen Klinik Bersalin
+aplikasi dasar mikrokontroler Atmega8535 dengan bahasa BASCOM menggunakan digital out (LED, segmentt display, dot matrik 5x7) dan digital in (switch,keypad 3x4)
+Aplikasi Alat Bantu Ajar Sistem Pakar dengan Metode Teknik Inferensi Backward Chaining
+Diagnosa Penyakit Kucing Berdasarkan Gejala Penyakit Berbasis Sistem Pakar
